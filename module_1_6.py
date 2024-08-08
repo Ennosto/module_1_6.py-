@@ -10,6 +10,7 @@ print(my_dict)
 
 my_set = {1, 2, 2, 3, 3, 4, 5, 5, (1, 2, 3), (1, 2, 3), (2, 1, 3), True}
 print(my_set)
-my_set.add(7), ((5,6,7))
-my_set.remove(3)
+my_set.add('Хомяк')
+my_set.add(4.44)
+my_set.remove((1, 2, 3))
 print(my_set)
